@@ -1,5 +1,7 @@
 import React from "react";
 import elsysImage from "../assets/elsys.jpeg";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faBars, faXmark } from '@fortawesome/free-solid-svg-icons';
 
 const Navbar = () => {
   return (
