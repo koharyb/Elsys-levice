@@ -19,6 +19,11 @@ const Gallery = () => {
 
 
     </div>
+
+        
+
+    
+
   </div>
   )
 }
